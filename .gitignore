@@ -1,4 +1,6 @@
 /venv
 /.pytest_cache
 /testframework.egg-info
+/.idea
+/__pycache__
 .coverage
