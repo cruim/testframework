@@ -1,0 +1,10696 @@
+{
+  "ift": [
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 5,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 5,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 3,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 5,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 5,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 3,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 3,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 8,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 4,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 8,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 8,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 2,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 8,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 3,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 4,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 5,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 3,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 4,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 5,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 4,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 5,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 5,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 6,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 5,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 3,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 3,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 2,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 3,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 8,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 3,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 8,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 4,
+        "Parch": 2,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 3,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 2,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 8,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 1,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 1,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 1,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 5,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 2,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        1
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 1,
+        "Parch": 2,
+        "Sex_female": 1,
+        "Sex_male": 0
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 1,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    },
+    {
+      "vector": {
+        "Pclass": 3,
+        "SibSp": 0,
+        "Parch": 0,
+        "Sex_female": 0,
+        "Sex_male": 1
+      },
+      "expected_result": [
+        0
+      ]
+    }
+  ]
+}
